@@ -6,7 +6,7 @@ console.log(userEmail);
 const passwordField = document.getElementById('user-password');
 const userPassword = passwordField.value;
 
-if(userEmail == 'st@gamil.com' && userPassword =='secret'){
+if(userEmail == 'st@gmail.com' && userPassword =='secret'){
     window.location.href = 'js/banking.html' ;
 }
 });
